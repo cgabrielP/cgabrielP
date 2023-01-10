@@ -3,7 +3,7 @@
 <img align="center"  src="https://miro.medium.com/max/1024/1*OohqW5DGh9CQS4hLY5FXzA.png" alt="cgabrielp" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cgabrielp&label=Profile%20views&color=0e75b6&style=flat" alt="cgabrielp" /> </p>
 
-- 🌱 I’m currently learning **VUE.js**
+- 🌱 I’m currently learning **VUE.js** and **NEXT.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/cgabrielP](https://github.com/cgabrielP)
 
